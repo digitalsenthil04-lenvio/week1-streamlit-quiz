@@ -1,0 +1,45 @@
+{
+  "title": "Desert Nomad Sandboarding Cinematic",
+  "scene_description": "Third-person cinematic view of a desert nomad sandboarding at high speed down towering golden sand dunes shaped like natural half-pipes, surrounded by distant ancient ruins under a massive glowing sunset. Heat shimmer ripples through the air as dust clouds trail behind the rider.",
+  "subject": {
+    "character": "Desert nomad",
+    "action": "Sandboarding downhill with aggressive carving turns",
+    "wardrobe": "Flowing desert garments with long fabric strips fluttering violently in the wind",
+    "emotion": "Focused, intense, determined"
+  },
+  "environment": {
+    "location": "Vast desert with towering golden dunes and scattered ancient ruins",
+    "time_of_day": "Sunset",
+    "atmosphere": "Warm color grading, atmospheric haze, visible heat shimmer, airborne sand particles"
+  },
+  "camera": {
+    "perspective": "Third-person follow shot",
+    "movement": "Sweeping cinematic tracking, dynamic descent following the rider",
+    "effects": "Motion blur, depth of field, dynamic framing",
+    "speed_emphasis": "Dust wake trailing behind, sand sprays during sharp turns"
+  },
+  "visual_details": {
+    "sand_physics": "Highly detailed sand texture reacting dynamically to movement",
+    "particle_effects": "Fine sand sprays and dust clouds in air",
+    "fabric_simulation": "Cloth strips reacting violently to speed and wind"
+  },
+  "style": {
+    "resolution": "8K",
+    "aesthetic": "Dune-inspired cinematic realism",
+    "render_quality": "Photorealistic",
+    "color_tone": "Warm, golden hues",
+    "lighting": "Soft sunset glow with long shadows"
+  },
+  "keywords": [
+    "desert nomad",
+    "sandboarding",
+    "golden dunes",
+    "ancient ruins",
+    "sunset",
+    "heat shimmer",
+    "dust trail",
+    "cinematic",
+    "photorealistic",
+    "dynamic sand physics"
+  ]
+}
