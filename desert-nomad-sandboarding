@@ -1,0 +1,11 @@
+ai-video-prompts-portfolio/
+│
+├── desert-nomad-sandboarding/
+│   ├── prompt.json
+│   ├── output.mp4
+│   ├── frame-01.png
+│   ├── frame-02.png
+│   ├── frame-03.png
+│   └── README.md
+│
+└── README.md
