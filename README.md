@@ -1,22 +1,25 @@
-# 🧠 Week 1 – Streamlit Quiz App
+# Desert Nomad Sandboarding – Cinematic AI Video Prompt
 
-This is a simple Quiz Application built using **Python** and **Streamlit** as part of Week 1 assignment.
+## 🎯 Goal
+Create a high-speed cinematic sandboarding scene with dynamic sand physics, sunset lighting, and a desert nomad aesthetic.
 
-## 🚀 Features
-- Simple quiz question
-- Multiple choice options
-- Instant result display
-- Beginner friendly Streamlit app
+## 🧠 Prompt Type
+JSON structured prompt for AI video generation (Veo / Sora / Runway / Pika compatible)
 
-## 🛠️ Tools Used
-- Python 3.11
-- Streamlit
-- VS Code
-- Git & GitHub
+## 📄 Prompt
+See `prompt.json`
 
-## ▶️ How to Run This App
+## 🖼 Key Frames
+![Frame 1](frame-01.png)
+![Frame 2](frame-02.png)
+![Frame 3](frame-03.png)
 
-1. Clone the repository
+## 🎥 Output Video
+Download and watch: `output.mp4`
 
-```bash
-git clone https://github.com/digitalsenthil04-lenvio/week1-streamlit-quiz.git
+## ✨ Visual Features Achieved
+- Dynamic sand spray and dust trail
+- Heat shimmer and atmospheric haze
+- Cinematic tracking camera
+- Realistic cloth simulation
+- Golden hour color grading
